@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <cctype>
-#include "caesar.h"
+#include "caeser.h"
 #include "funcs.h"
 #include "vigenere.h"
 #include "decrypt.h"

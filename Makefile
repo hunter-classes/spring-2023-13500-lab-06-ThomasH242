@@ -13,7 +13,7 @@ test-ascii.o: test-ascii.cpp
 
 main.o: main.cpp funcs.h 
 
-caesar.o: caesar.cpp caesar.h
+caesar.o: caesar.cpp caeser.h
 
 tests.o: tests.cpp doctest.h funcs.h
 
