@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+#include <cctype>
 #include "funcs.h"
 
 void ascii(std::string str){

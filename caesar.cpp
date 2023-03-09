@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <cctype>
 // A helper function to shift one character by rshift
 char shiftChar(char c, int rshift){
     if((c >= 97 and c <= 122)) 
